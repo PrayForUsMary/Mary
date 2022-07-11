@@ -1,0 +1,293 @@
+a {
+  text-decoration-line: none;
+}
+
+nav {
+  background-color: red;
+  text-align: center;
+  margin: -16px;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  padding: 10px;
+  font-style: normal;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: dodgerblue;
+}
+
+.maryImg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@keyframes mary {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+#mary {
+  animation-name: mary;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+.infant {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#rosary {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sorrow {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ol {
+  font-size: larger;
+  font-family: sans-serif;
+  font-style: inherit;
+}
+
+#veronica {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#clare {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#therese {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#medjugorje {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#dominic {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#dominic {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#teresa {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#pio {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#assisi {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#lourdes {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#fatima {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#davgol {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#charbel {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#passion {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#ten {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#a6 {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+/* RCIA */
+
+#rcia1 {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#rcia2 {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#rcia3 {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#rcia4 {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#rcia5 {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#rcia6 {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+/* Prayer Database */
+
+.PrayerDatabase a:hover {
+  background-color: aquamarine;
+}
+
+#a1 {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#a2 {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#a3 {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#a4 {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#a5 {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#a6 {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#a7 {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#a8 {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#a9 {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#ab1 {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#ab2 {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#ab3 {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#ab4 {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#ab5 {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#ab6 {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#ab7 {
+  border-top: 5px solid red;
+  padding: 10px;
+}
+
+#saints {
+  background-color: blanchedalmond;
+  text-align: center;
+  margin: -16px;
+}
+
+.saints a:hover {
+  background-color: aquamarine;
+}
+
+.rosary a:hover {
+  background-color: aquamarine;
+}
+
+#prayers {
+  background-color: dodgerblue;
+  text-align: left;
+  margin: -16px;
+}
+
+.pray a:hover {
+  background-color: aquamarine;
+}
+
+saints
